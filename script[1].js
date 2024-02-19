@@ -16,8 +16,6 @@ document.getElementById("registrationForm").addEventListener("submit", function(
     return;
   }
 
-  // Additional validation for other fields if needed...
-
   alert("Registration successful!");
 });
 
